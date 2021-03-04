@@ -1,4 +1,4 @@
-# a toy web crawler
+# a toy web crawler， just for fun :)
 
 ## step1: install Chrome and driver on Linux
 ```
