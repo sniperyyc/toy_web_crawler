@@ -1,4 +1,4 @@
-# a toy web crawler, just for fun :)
+# a toy web crawler
 
 ## step1: install Chrome and driver on Linux
 ```
@@ -13,3 +13,5 @@ python3 main.py
 ```
 
 modify csv file location as needed.
+
+Have fun!
